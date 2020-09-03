@@ -1,0 +1,30 @@
+header {
+    background-image: url('../img/fondo.jpg') ;
+    height: 100vh;
+    background-size: cover;
+}
+
+header .msj-inicio{
+    background-color: rgba(255, 255, 255, 0.5);
+    box-shadow:3px 3px 3px 3px rgba(0, 0, 0,0.5);
+}
+
+header h1{
+    font-family: 'Playfair Display', serif;
+}
+
+.titulos{
+    font-family: 'Merriweather', serif;
+}
+
+.opinion{
+    font-family: 'Dancing Script', cursive;
+}
+
+.footer{
+    background-color: #373B3F;
+}
+
+main .planes{
+    background-color: #102b3f;
+}
